@@ -94,8 +94,6 @@ And still, bridging이 된 후에 동작방식은 잘 모르겠음. **(이후의
 
 
 
-
-
 ### Reference
 
 [1] http://manseok.blogspot.com/2014/11/pmd-dpdk.html
